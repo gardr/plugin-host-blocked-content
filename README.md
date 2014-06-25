@@ -1,2 +1,2 @@
-plugin-ext-blocked-content
+plugin-host-blocked-content
 ==========================
